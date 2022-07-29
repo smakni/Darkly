@@ -1,2 +1,0 @@
-https://www.acunetix.com/blog/articles/exploiting-sql-injection-example/
-https://resources.infosecinstitute.com/topic/dumping-a-database-using-sql-injection/
